@@ -1,0 +1,58 @@
+/* Set font family */
+body {
+  font-family: Arial, sans-serif;
+}
+
+/* Style navigation bar */
+.navbar {
+  padding: 20px;
+}
+
+/* Style jumbotron */
+.jumbotron {
+  background-color: #f2f2f2;
+  text-align: center;
+}
+
+/* Style section headings */
+.section h2 {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+/* Style section paragraphs */
+.section p {
+  font-size: 18px;
+  line-height: 1.5;
+  text-align: justify;
+}
+
+/* Style portfolio cards */
+.card {
+  margin-bottom: 30px;
+}
+
+.card-img-top {
+  height: 150px;
+  object-fit: cover;
+}
+
+.card-title {
+  margin-top: 10px;
+  margin-bottom: 0;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.card-text {
+  margin-top: 10px;
+  font-size: 16px;
+}
+
+/* Style footer */
+footer {
+  background-color: #f2f2f2;
+  padding: 20px;
+  text-align: center;
+  font-size: 14px;
+}
